@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.color{
+    background-color: rgb(124, 252, 167);
+}
+
+.color1{
+    background-color: rgb(255, 219, 58);
+}
+
+.borde1{
+    border: 5px solid red;
+}
+.borde2{
+    border: 5px solid green;
+}
+
+.borde3{
+    border: 5px solid blue;
+}
+
+.imagen3{
+    background-image: url(orquesta4.jpg);
+    background-size: cover;
+}
+
+.botonA{
+    border: 1px solid blue;
+    color: blue;
+}
+.botonB{
+    border: 1px solid green;
+    color: green;
+}
+.botonC{
+    border: 1px solid red;
+    color: red;
+}
+.colorF{
+    background-color: rgb(133, 247, 247);
+}
